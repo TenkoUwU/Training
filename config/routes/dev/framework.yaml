@@ -1,3 +1,3 @@
-_errors:
-    resource: '@FrameworkBundle/Resources/config/routing/errors.xml'
-    prefix: /_error
+#index:
+#   path: /
+#   controller: App\Controller\ArticleController::index
